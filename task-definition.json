@@ -1,4 +1,5 @@
-    "taskDefinitionArn": "arn:aws:ecs:eu-central-1:135808938751:task-definition/block-ninja-task:1",
+
+    "taskDefinitionArn": "arn:aws:ecs:eu-central-1:135808938751:task-definition/block-ninja-task:1",
     "containerDefinitions": [
         {
             "name": "block-ninja-container",
