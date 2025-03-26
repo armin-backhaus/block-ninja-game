@@ -87,6 +87,5 @@
     },
     "registeredAt": "2025-03-19T12:52:59.617Z",
     "registeredBy": "arn:aws:sts::135808938751:assumed-role/AWSReservedSSO_Student_db1ba506f7157772/armin.backhaus@edu.techstarter.de",
-    "enableFaultInjection": false,
     "tags": []
 }
