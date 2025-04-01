@@ -1,6 +1,6 @@
 # 🥷 Block Ninja Game
 
-Ein kleines aber feines Web-Game – deployed via CI/CD auf AWS ECS Fargate 🚀
+Ein kleines aber feines Web-Game (https://codepen.io/Feeling_Stobby/pen/WNNaKVp) – deployed via CI/CD auf AWS ECS Fargate 🚀
 
 ---
 
