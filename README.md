@@ -59,5 +59,10 @@ Deployment Methode	GitHub Actions
 
 
 
-👨‍💻 Autor
+
+👨‍💻 Game-Autor
+    Block Ninja!
+👾 Jeve Stobs
+
+👨‍💻 CI/CD-Autor
 👾 armin-backhaus
