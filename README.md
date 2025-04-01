@@ -1,6 +1,14 @@
 # 🥷 Block Ninja Game
-
 Ein kleines aber feines Web-Game (https://codepen.io/Feeling_Stobby/pen/WNNaKVp) – deployed via CI/CD auf AWS ECS Fargate 🚀
+
+
+Diese Pipeline ist:
+
+automatisch (CI/CD)
+stabil & portabel (Docker)
+sicher & Cloud-ready (ECR/ECS)
+einfach wartbar (GitHub Actions + Fargate)
+skalierbar (AWS Architektur)
 
 ---
 
@@ -33,13 +41,9 @@ docker run -p 8080:80 block-ninja-game
 Die Datei .github/workflows/deploy.yml steuert den automatischen Build- und Deployment-Prozess:
 
 ✅ Code Push auf main
-
 🐳 Docker Image Build
-
 ☁️ Push nach Amazon ECR
-
 🔁 Update der ECS Task Definition
-
 🚀 Re-Deployment auf ECS Fargate
 
 
