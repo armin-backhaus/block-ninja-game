@@ -2,6 +2,12 @@
 Ein kleines aber feines Web-Game (https://codepen.io/Feeling_Stobby/pen/WNNaKVp) – deployed via CI/CD auf AWS ECS Fargate 🚀
 
 
+Steuerung:
+
+Bewegen mit der Maus
+Schneiden mit links-click
+
+
 Diese Pipeline ist:
 
 automatisch (CI/CD)
